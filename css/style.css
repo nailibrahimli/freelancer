@@ -361,13 +361,13 @@ divider-custom {
     background-color: #f8f9fa;
 }
 
-footer {
+.footer {
     text-align: center;
     padding: 27px 0;
     background-color: #1a252f;
 }
 
-footer p {
+.footer p {
     font-size: 12.8px;
     color: white;
     font-family: 'Lato', sans-serif;
